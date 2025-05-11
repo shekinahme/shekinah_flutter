@@ -1,0 +1,8 @@
+{"editor.mouseWheelScrollSensitivity": 1,
+"editor.fastScrollSensitivity": 1,
+"editor.scrollBeyondLastLine": false,
+"editor.smoothScrolling": true,
+"workbench.experimental.cloudChanges.partialMatches.enabled": true,
+"editor.cursorSmoothCaretAnimation": "on"
+
+}
